@@ -132,4 +132,3 @@ ibkr-gsheet-bot/
 
 MIT
 
-
