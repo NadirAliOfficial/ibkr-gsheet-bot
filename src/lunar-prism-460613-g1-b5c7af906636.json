@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lunar-prism-460613-g1",
+  "private_key_id": "b5c7af906636e10e379b718d2f945e2b2dab6778",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcOjlSidUJrx5E\nEitqJXjhpqw9pnoajCqFQq5LedILoBKZ0nOndIG/H9uTyKRH+blRTY9AHvVkYSFo\nTVueBq5hnNAnfsgZghZPH8riUqv+TyRu5YsYaJOjvs5YJN2GjTw0puxiKd5nM1YS\nfjUmsC9XRK/a3/liLz6ggAUrSaZrN3qCg/yQ7+0fgZO1SF2WRHnRwzeNoy6GWIO5\n0TONcsE0rUaTmz46RovKRvBoGgbac10/FjBS3lqULMmhKhwrdSLYNbuoHSiZlPxI\nbJtVlUVRSYwJ+cFPTg48APkqAVVmgUpHl94GqyzKkCuwOJ7o2WUUrKThXOjx2KyD\nFBNNDb5bAgMBAAECggEAG5sZfr0JXUk8LYNA5Ebl5BSyXZiwkK2w/NBoLHeM+r5q\nO9RTgWe2MJZBPkFgmnx1caQbyLQOGwhJREZXgt51MzDm2jSRx7ofVXQiSK7dTCfG\nj4zVm/iBR/2N5yMD49nGH2wskHzixKP87keEySCSZp7qaQY6FXKKUrCJiqy/oDZy\nFwL5zWEgZLGkYLLQukHV81Tnc4qKLeOO/ELsouRgY5QxfPF01ToXJe3nFMZLTKAh\nyXmoRzp4xVukbr3IV7aPfxpaXOd1r7CAUGeVeg1Aqrpcawb1/k8/CFb5FTQstNMF\nxRgzmNTyXISi5A+zzGUtO5iw0wfGnoc7gyfN0e2QbQKBgQDwDcTi7aKCPtu3lmRe\nUNBf4nLjK69yXzw5+6HnHg7FU/sWgpIbnxxkuTjxRkGS8jb8APxWAR1hwjB8+T9S\nKqr4fgfTFbrMWZkKoUaP9z7xQoZMO2h4nv9wJ5Ka1wF4GeFDRGcT5r70KpqTK1kX\ni6LVp02xsFQl7sxjmAq0GIygLwKBgQDq20xU4ZI9iZNHqk7agNNHXmpklVPyEfsE\nK1OsQNLtT5k9l3w+ZZQ58JEcIMTleVPjluCxrBg8USZD8yaaB44K3lTGCqi0mX75\nbkVe+LoOHDlH2vfw3w2Gd4FD7gbnloSzYCMP3SrdugwPpmExSBYN75lIQwLyBpQ/\nfsE7oGftlQKBgQCEP4GtZy91Q732GVN4Jlt1x6J1hpakktTyOK/MTOHkUkzs7Mgj\nkXeqAeTd/0+W7fvev4hEtV6DgeEGqKX61WjVd1FGOB1uARpwIcNnAtZZQcYM71mx\nwh6FojeBOFwl11Qjo+aJr0CZ8XKxC1uMvi/aNs51yufA8hsF7zhOWYv3nwKBgQDb\nI5razMumzdr2EMyZB4Gc41VE2y1D/1EIN+FQJgBqXE5xcQsGMcQYOAc+hrkSIZ6M\nCvlH73uBtHqPBq+rI4d/TqstSz7VnTAkT6c9EbqRdfZgvMmDIK2/HX0pRE1/BCx4\nLykoIUdhMrsUUzv3PvsNL9cH3Tc/W7IyePSWzXqL7QKBgG0YjOp4/aNo/pZGlaMN\nPztjHrC9lrOK0+/L0aYnACpbeu3Lxa2FZ+63OjMbxpnHUUYwNUeHcn7RLrbVGyDI\nD6mCutarxHT69PLmCCnQA1v4igLNw09qJFJhDUTVWgLWfwOuCXhN1L3INdFXz1iW\nq4SfWlVMhEQebbVVu6OGwaW9\n-----END PRIVATE KEY-----\n",
+  "client_email": "samiubaidi@lunar-prism-460613-g1.iam.gserviceaccount.com",
+  "client_id": "108800518871709020163",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samiubaidi%40lunar-prism-460613-g1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,19 @@
+# Core dependencies
+ib-insync==0.9.85
+gspread==6.0.2
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.104.0
+
+# Utilities
+python-dotenv==1.0.0
+configparser==5.3.0
+pandas==2.1.1  # For potential data handling
+
+# Logging & Alerts (optional)
+python-telegram-bot==20.5  # For Telegram alerts
+pywin32==306  # Windows-specific (for email alerts)
+
+# Development
+black==23.9.1  # Code formatter
+pylint==2.17.4  # Linter
