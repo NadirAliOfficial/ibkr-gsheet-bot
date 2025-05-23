@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/home/sa/ibkr-gsheet-bot/config
+/config
 # C extensions
 *.so
 
