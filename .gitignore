@@ -5,6 +5,7 @@ __pycache__/
 
 /home/sa/ibkr-gsheet-bot/config
 /config
+config/
 # C extensions
 *.so
 
