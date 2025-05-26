@@ -12,7 +12,6 @@ pandas==2.1.1  # For potential data handling
 
 # Logging & Alerts (optional)
 python-telegram-bot==20.5  # For Telegram alerts
-pywin32==306  # Windows-specific (for email alerts)
 
 # Development
 black==23.9.1  # Code formatter
