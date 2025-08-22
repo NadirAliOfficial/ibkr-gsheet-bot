@@ -14,4 +14,4 @@
    ```bash
    chmod +x scripts/install_deps.sh
    ./scripts/install_deps.sh
-<!-- updated: 2025-03-19-r01 -->
+<!-- updated: 2025-08-22-r01 -->
