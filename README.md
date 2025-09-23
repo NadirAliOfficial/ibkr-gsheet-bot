@@ -131,5 +131,3 @@ ibkr-gsheet-bot/
 ## License
 
 MIT
-
-
